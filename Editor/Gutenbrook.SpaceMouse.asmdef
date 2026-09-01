@@ -1,0 +1,9 @@
+{
+  "name": "Gutenbrook.SpaceMouse",
+  "rootNamespace": "Gutenbrook.SpaceMouse",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

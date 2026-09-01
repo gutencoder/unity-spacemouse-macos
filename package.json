@@ -1,0 +1,21 @@
+{
+  "name": "com.gutenbrook.spacemouse",
+  "version": "0.1.0",
+  "displayName": "SpaceMouse for macOS",
+  "description": "Navigate the Unity editor with a 3Dconnexion SpaceMouse on macOS. Drives the scene view, and the simulated AR camera in play mode when AR Foundation is present. The driver does the navigation itself, so speed and feel follow the 3Dconnexion panel.",
+  "unity": "6000.0",
+  "license": "MIT",
+  "author": {
+    "name": "Gutenbrook",
+    "url": "https://github.com/gutencoder"
+  },
+  "keywords": [
+    "3dconnexion",
+    "spacemouse",
+    "input",
+    "editor",
+    "macos",
+    "navigation",
+    "scene view"
+  ]
+}

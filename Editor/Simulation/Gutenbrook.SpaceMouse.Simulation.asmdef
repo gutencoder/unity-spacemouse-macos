@@ -1,0 +1,22 @@
+{
+  "name": "Gutenbrook.SpaceMouse.Simulation",
+  "rootNamespace": "Gutenbrook.SpaceMouse.Simulation",
+  "references": [
+    "Gutenbrook.SpaceMouse",
+    "Unity.XR.Simulation"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "defineConstraints": [
+    "SPACEMOUSE_XR_SIMULATION"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.unity.xr.arfoundation",
+      "expression": "6.0.0",
+      "define": "SPACEMOUSE_XR_SIMULATION"
+    }
+  ],
+  "autoReferenced": true
+}
